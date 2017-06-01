@@ -1,0 +1,11 @@
+- Must render one complete page
+- No navigation is necessary (except same page)
+- Logo
+- by-line for Logo
+- name
+- Three sections for the page
+- Footer copyright
+- Content
+- you should bring in some data 
+- render that data out as we've doing before
+- Make it look great! It's for your portfolio
